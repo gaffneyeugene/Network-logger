@@ -1,4 +1,4 @@
-Sure! Below is a sample GitHub `README.md` file for the Logging Application project:
+
 
 # Logging Application with PyQt5
 
